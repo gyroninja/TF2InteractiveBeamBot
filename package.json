@@ -1,0 +1,17 @@
+{
+  "name": "tf2interactbeambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "beam-client-node": "git+ssh://git@github.com/WatchBeam/beam-client-node.git",
+    "beam-interactive-node": "git+ssh://git@github.com/WatchBeam/beam-interactive-node.git",
+    "robotjs": "^0.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gyroninja",
+  "license": ""
+}
